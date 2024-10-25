@@ -12,12 +12,11 @@ This is a simple Advice Generator App built with **HTML**, **CSS**, and **JavaSc
 
 You can check out the live demo of the project here:
 
-[Live Demo Link](https://your-live-demo-link.com)  <!-- Replace with your actual live URL -->
-
+[Live Demo Link](https://sahil7733.github.io/Advice-generator-app/)
 ## Preview
 
 ![Advice Generator Screenshot](![Screenshot 2024-10-25 142237](https://github.com/user-attachments/assets/74d5cd42-77f9-40a2-9ff1-5c283ccdb94f)
-)  <!-- Replace with your actual screenshot path -->
+) 
 
 ## Built With
 - **HTML**
@@ -31,4 +30,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sahil7733/advice-generator-app.git
+   git clone https://github.com/Sahil7733/Advice-generator-app.git
